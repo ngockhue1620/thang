@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  font-family: 'Sansita Swashed', cursive;
+  position: absolute;
+  margin-top: 200px;
+  color: azure;
+  font-size: 30px;
+}
+.image {
+  max-height: 500px;
+  margin: 50px;
+  max-width: 500px;
+}
+
+.isHidden {
+  display: none;
+}
